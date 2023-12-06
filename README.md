@@ -1,4 +1,6 @@
 # BlueArchivePV-Collect
+Click [😐Release🙂](https://github.com/KleePaimon/BlueArchivePV-Collect/releases) to download
+
 全部文件仅供分享交流之用，在未取得相关授权前请勿用于商业用途
 Copyright©:Nexon/Yostar/MX Studio
 
